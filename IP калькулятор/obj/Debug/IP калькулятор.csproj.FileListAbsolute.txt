@@ -1,0 +1,10 @@
+C:\Users\zhiev\source\repos\IP калькулятор\IP калькулятор\bin\Debug\IP калькулятор.exe.config
+C:\Users\zhiev\source\repos\IP калькулятор\IP калькулятор\bin\Debug\IP калькулятор.exe
+C:\Users\zhiev\source\repos\IP калькулятор\IP калькулятор\bin\Debug\IP калькулятор.pdb
+C:\Users\zhiev\source\repos\IP калькулятор\IP калькулятор\obj\Debug\IP калькулятор.csproj.AssemblyReference.cache
+C:\Users\zhiev\source\repos\IP калькулятор\IP калькулятор\obj\Debug\IP_калькулятор.Form1.resources
+C:\Users\zhiev\source\repos\IP калькулятор\IP калькулятор\obj\Debug\IP_калькулятор.Properties.Resources.resources
+C:\Users\zhiev\source\repos\IP калькулятор\IP калькулятор\obj\Debug\IP калькулятор.csproj.GenerateResource.cache
+C:\Users\zhiev\source\repos\IP калькулятор\IP калькулятор\obj\Debug\IP калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\zhiev\source\repos\IP калькулятор\IP калькулятор\obj\Debug\IP калькулятор.exe
+C:\Users\zhiev\source\repos\IP калькулятор\IP калькулятор\obj\Debug\IP калькулятор.pdb
