@@ -8,3 +8,22 @@ C:\Users\zhiev\source\repos\IP калькулятор\IP калькулятор\
 C:\Users\zhiev\source\repos\IP калькулятор\IP калькулятор\obj\Debug\IP калькулятор.csproj.CoreCompileInputs.cache
 C:\Users\zhiev\source\repos\IP калькулятор\IP калькулятор\obj\Debug\IP калькулятор.exe
 C:\Users\zhiev\source\repos\IP калькулятор\IP калькулятор\obj\Debug\IP калькулятор.pdb
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\bin\Debug\lua54.dll
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\bin\Debug\liblua54.dylib
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\bin\Debug\x86\lua54.dll
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\bin\Debug\x64\lua54.dll
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\bin\Debug\x64\liblua54.so
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\bin\Debug\IP калькулятор.exe.config
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\bin\Debug\IP калькулятор.exe
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\bin\Debug\IP калькулятор.pdb
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\bin\Debug\KeraLua.dll
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\bin\Debug\NLua.dll
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\bin\Debug\KeraLua.xml
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\obj\Debug\IP калькулятор.csproj.AssemblyReference.cache
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\obj\Debug\IP_калькулятор.Form1.resources
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\obj\Debug\IP_калькулятор.Properties.Resources.resources
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\obj\Debug\IP калькулятор.csproj.GenerateResource.cache
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\obj\Debug\IP калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\obj\Debug\IP калькулятор.csproj.CopyComplete
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\obj\Debug\IP калькулятор.exe
+C:\Users\zhiev\Source\Repos\IP-calculator\IP калькулятор\obj\Debug\IP калькулятор.pdb
